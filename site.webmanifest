@@ -1,0 +1,16 @@
+{
+ "name": "JellyFil Journal",
+ "short_name": "JellyFil",
+ "description": "Independent information and ordering website for JellyFil gummies.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#F4F8FF",
+ "theme_color": "#2459B8",
+ "icons": [
+  {
+   "src": "assets/images/favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
